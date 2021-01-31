@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\code\毕业论文\code\sjc_spea2_zdt\sjc_spea2_zdt\sjc_spea2_zdt\init2.h(15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\code\毕业论文\code\sjc_spea2_zdt\sjc_spea2_zdt\sjc_spea2_zdt\main.cpp(22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  SJC_SPEA2_ZDT.vcxproj -> D:\code\毕业论文\code\SJC_SPEA2_ZDT\SJC_SPEA2_ZDT\Debug\SJC_SPEA2_ZDT.exe
